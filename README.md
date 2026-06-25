@@ -39,8 +39,10 @@ To get started with OpenClaw:
 ## Contributing
 Contributions are welcome! Feel free to submit pull requests, report bugs, or suggest new features. Refer to the CONTRIBUTING.md file for guidelines.
 
-## License
-OpenClaw is licensed under the MIT License. See LICENSE.md for more information.
+
 
 ## Conclusion
 OpenClaw aims to revolutionize how users engage with digital content. With its powerful features, user-friendly design, and commitment to open-source principles, it is set to become an essential tool for individuals and organizations alike.
+
+## Author
+**Yashu Singh**
